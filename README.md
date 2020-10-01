@@ -1,1 +1,38 @@
-# Repo
+## Panduan berbasis video
+- [BootUP](https://bootup.ai)
+  - Sekolah Koding, Bootcamp, dll.
+  - sebagian materi berbayar
+- [CodePolitan](https://www.codepolitan.com/)
+  - HTML/CSS, dll.
+  - sebagian besar materi berbayar
+- [IndonesiaX (Kategori *Computer Science*)](https://www.indonesiax.co.id/courses?category=computer-science)
+- [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish) (YouTube)
+  - C++, Django, Java, Matlab, dll.
+- [Malescast](https://malescast.com/)
+  - Laravel, PHP, dll.
+  - sebagian materi berbayar
+  - terakhir kali diperbarui tahun 2015
+- [Petani Kode](https://www.youtube.com/petanikode) (YouTube)
+  - Java
+- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) (Youtube)
+  - Golang, Kotlin, Docker, Redis
+- [Sekolah Koding](https://sekolahkoding.com/)
+  - HTML/CSS, JavaScript, Laravel, PHP, Python, dll.
+  - sebagian materi berbayar
+- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg) (YouTube)
+  - HTML/CSS, PHP
+- [Progate](https://progate.com/)
+  - HTML/CSS, JavaScript, PHP, Python, Nodejs, React, SQL, dll
+  - sebagian materi berbayar
+- [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
+  - HTML/CSS, Laravel
+## Bahasa pemrograman dalam bahasa Indonesia
+- [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
+  - bahasa pemrograman visual berbasis balok
+  - akses terjemahan bahasa Indonesia lewat menu > *languages* > Bahasa Indonesia
+- [Scratch](https://scratch.mit.edu/) ([repositori](https://github.com/LLK/))
+  - bahasa pemrograman visual berbasis balok
+  - akses terjemahan bahasa Indonesia lewat tombol bola dunia > Bahasa Indonesia
+- [Snap!](https://snap.berkeley.edu/) ([repositori](https://github.com/jmoenig/Snap))
+  - bahasa pemrograman visual berbasis balok
+  - akses terjemahan bahasa Indonesia lewat menu > *language ...* > Bahasa Indonesia
