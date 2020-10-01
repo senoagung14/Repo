@@ -26,6 +26,9 @@
   - sebagian materi berbayar
 - [Kawan Koding](https://www.youtube.com/kawankoding) (YouTube)
   - HTML/CSS, Laravel
+- [Arkademy](https://www.arkademy.com)
+  - Sekolah Koding, Bootcamp, dll.
+  - sebagian materi berbayar
 ## Bahasa pemrograman dalam bahasa Indonesia
 - [BeetleBlocks](http://beetleblocks.com/) ([repositori](https://github.com/ericrosenbaum/BeetleBlocks))
   - bahasa pemrograman visual berbasis balok
